@@ -38,6 +38,8 @@ gem 'bcrypt', '~> 3.1.7'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'httparty', '~> 0.13.3'
+
 gem 'pry-rails', group: :development
 
 gem 'json', '~> 1.8.1'
